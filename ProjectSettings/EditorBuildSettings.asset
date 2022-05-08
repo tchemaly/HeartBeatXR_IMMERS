@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/GraphMrtkMergeunity.unity
+    guid: 60e667f45242b7c40895d6de0dade037
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ecfafd0c8240f0a4f94752f1e79bd841, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7a4cc687e49d3834bb51cacdb1ddf3dd, type: 2}
